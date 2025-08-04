@@ -21,6 +21,10 @@
     width="60px"
     alt="css3">
     &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+    width="60px"
+    alt="css3">
+    &nbsp;&nbsp;&nbsp;&nbsp;
   
   <!-- Frameworks -->
   </br>
